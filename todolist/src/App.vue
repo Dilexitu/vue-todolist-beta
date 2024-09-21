@@ -11,7 +11,7 @@
         </li>
         <li>
           <router-link to="/statistics" class="nav-item">
-            <i class="fas fa-chart-bar"></i> statistics
+            <i class="fas fa-chart-bar"></i> statistic
           </router-link>
         </li>
         <li>
