@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## vue route setup
+```
+npm install vue-router vuex
+```
 
 ### Compiles and hot-reloads for development
 ```
