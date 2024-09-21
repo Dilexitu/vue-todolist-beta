@@ -16,7 +16,7 @@
         </li>
         <li>
           <router-link to="/zelfzorg" class="nav-item">
-            <i class="fas fa-heart"></i> Self care
+            <i class="fas fa-heart"></i> Self cares
           </router-link>
         </li>
       </ul>
