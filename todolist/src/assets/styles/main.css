@@ -1,0 +1,17 @@
+.app-container {
+    display: flex;
+    position: relative;
+    background: url('../img/background.gif') no-repeat center center fixed;
+    background-size: cover;
+    color: #f5f5f5;
+    font-family: 'Garamond', serif;
+    height: 100vh; /* Zorg ervoor dat de Highte van de container 100% van het scherm is */
+    overflow: hidden; /* Verberg scrollbalken */
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0; /* Delete standaard margin */
+    overflow: hidden; /* Verberg scrollbalken */
+  }
+  
