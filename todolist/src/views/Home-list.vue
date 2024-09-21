@@ -1,7 +1,7 @@
 <template>
     <div>
         <h2>My task</h2>
-        <button @click="openAddTaskModal">New Task</button>
+        <button @click="openAddTaskModal">New Tasks</button>
         <task-list />
         <add-task-modal v-if="showModal" @close="closeAddTaskModal" />
     </div>
