@@ -6,17 +6,17 @@
       <ul>
         <li>
           <router-link to="/" class="nav-item">
-            <i class="fas fa-list"></i> Task
+            <i class="fas fa-list"></i> Tasks
           </router-link>
         </li>
         <li>
           <router-link to="/statistics" class="nav-item">
-            <i class="fas fa-chart-bar"></i> statistic
+            <i class="fas fa-chart-bar"></i> statistics
           </router-link>
         </li>
         <li>
           <router-link to="/zelfzorg" class="nav-item">
-            <i class="fas fa-heart"></i> Self cares
+            <i class="fas fa-heart"></i> Self care
           </router-link>
         </li>
       </ul>
